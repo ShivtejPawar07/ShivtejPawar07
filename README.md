@@ -1,4 +1,4 @@
-![Shivtej](https://raw.githubusercontent.com/ShivtejPawar07/ShivtejPawar/main/shivtej.jpeg)
+![Shivtej](https://raw.githubusercontent.com/ShivtejPawar07/ShivtejPawar07/main/shivtej.jpeg)
 
 
 # Shivtej Pawar
