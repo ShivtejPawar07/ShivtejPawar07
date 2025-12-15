@@ -83,8 +83,7 @@ Dive in and explore!
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShivtejPawar07&theme=dark&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
-## Trophie Stats
-![](https://github-profile-trophy.vercel.app/?username=ShivtejPawar07&theme=onedark)
+
 
 
 ## Portfolio Website
