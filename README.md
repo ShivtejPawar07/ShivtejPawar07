@@ -22,7 +22,7 @@ Dive in and explore!
 
 ## IDE
   [![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -71,8 +71,8 @@ Dive in and explore!
 [![Static Badge](https://img.shields.io/badge/SQL%20and%20Databases-Course-%20?style=flat&logo=mysql&color=blue)](https://github.com/ShivtejPawar07)
 [![Static Badge](https://img.shields.io/badge/Web%20Development-HTML%20CSS%20JS-%20?style=flat&logo=html5&color=blue)](https://github.com/ShivtejPawar07)
 [![Static Badge](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-DSA-%20?style=flat&logo=hackerrank&color=blue)](https://github.com/ShivtejPawar07)
-
-
+[![PHP Programming](https://img.shields.io/badge/PHP%20Programming-Course-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/ShivtejPawar07)
+[![PHP with CodeIgniter](https://img.shields.io/badge/PHP%20%2B%20CodeIgniter-Framework-EF4223?style=flat&logo=codeigniter&logoColor=white)](https://github.com/ShivtejPawar07)
 
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShivtejPawar07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
