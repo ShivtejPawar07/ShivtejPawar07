@@ -18,7 +18,7 @@ Dive in and explore!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivtejPawar07&theme=dark&hide_border=true&repo=AtmMangenment)](https://github.com/ShivtejPawar07/AtmMangenment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivtejPawar07&theme=dark&hide_border=true&repo=TiffinServiceFinder)](https://github.com/ShivtejPawar07/TiffinServiceFinder) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivtejPawar07&theme=dark&hide_border=true&repo=Leetcode-Solutions)](https://github.com/ShivtejPawar07/Leetcode-Solutions)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivtejPawar07&theme=dark&hide_border=true&repo=BirthdayGreeting)](https://github.com/ShivtejPawar07/BirthdayGreeting)
 
 ## IDE
   [![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
